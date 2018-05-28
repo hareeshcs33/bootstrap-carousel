@@ -427,15 +427,11 @@ span.zoom {
   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fefefe), color-stop(1, #eeeeee));
   background-image: -webkit-linear-gradient(#fefefe, #eeeeee);
   box-shadow: 0 1px 1px #cccccc, inset 0 1px 0 rgba(255, 255, 255, 0.25);
-  -webkit-transition: 0.15s border-color linear;
-  -moz-transition: 0.15s border-color linear;
 }
 
 .btn:hover, button:hover {
   background-position: 0 0;
   border-color: #bbb;
-  -webkit-transition: 0.15s border-color linear;
-  -moz-transition: 0.15s border-color linear;
 }
 
 .btn-green {
